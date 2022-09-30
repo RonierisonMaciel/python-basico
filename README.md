@@ -1,4 +1,4 @@
-# Startando um projeto e uma aplicação utilizando o framework Django
+# Iniciando um projeto e uma aplicação utilizando o framework Django
 
 <br>
 
