@@ -46,9 +46,6 @@ touch application/templates/contato.html
 </details>
 
 <br>
-<br>
-
-
 
 ## Execução da aplicação
 ---
